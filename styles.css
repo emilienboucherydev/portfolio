@@ -1,0 +1,54 @@
+body {
+    margin: 0; /* Correction pour que margin soit 0 */
+    padding: 0; /* Correction pour que padding soit 0 */
+    background: url(https://statics.free-work.com/blog_post_image_large/l-informatique-optique-quand-la-lumiere-devient-calculatrice-LJV8qke6P0PwHszO.jpeg) no-repeat center center; 
+    background-size: cover; 
+    font-family: Arial ; 
+    line-height: 1.7; /* Augmentation de l'espacement entre les lignes */
+}
+
+header {
+    background: rgba(255, 152, 0, 0.8); 
+    color: #fff; 
+    padding: 60px 0; /* Augmentation du padding pour plus d'espace */
+    text-align: center;
+    min-height: 250px; /* Augmentation de la hauteur minimale */
+}
+
+h1 {
+    font-size: 2.5em; /* Taille de police pour le h1 */
+    margin: 0; /* Enlever la marge par défaut */
+}
+
+nav ul {
+    list-style-type: none; 
+    padding: 0; 
+}
+
+nav ul li {
+    display: inline; 
+    margin: 0 30px; /* Augmentation de l'espacement entre les éléments du menu */
+}
+
+section {
+    padding: 60px; /* Augmentation du padding pour plus d'espace */
+    margin: 20px 0; 
+    background: rgba(255, 255, 255, 0.9); /* Fond légèrement plus opaque */
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ajout d'une ombre pour donner du relief */
+}
+
+h2 {
+    font-size: 2em; /* Taille de police pour le h2 */
+    margin-bottom: 20px; /* Marge en dessous du h2 */
+}
+
+p {
+    font-size: 1.3em; /* Taille de police pour les paragraphes */
+}
+
+footer {
+    text-align: center;
+    padding: 30px; /* Augmentation du padding pour plus d'espace */
+    font-size: 1.3em; /* Taille de police pour le footer */
+}
